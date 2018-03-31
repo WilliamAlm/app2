@@ -1,0 +1,10 @@
+C:\Users\adm-caa\Desktop\apps2\SSTI\bin\Debug\netcoreapp2.0\SSTI.deps.json
+C:\Users\adm-caa\Desktop\apps2\SSTI\bin\Debug\netcoreapp2.0\SSTI.runtimeconfig.json
+C:\Users\adm-caa\Desktop\apps2\SSTI\bin\Debug\netcoreapp2.0\SSTI.runtimeconfig.dev.json
+C:\Users\adm-caa\Desktop\apps2\SSTI\bin\Debug\netcoreapp2.0\SSTI.dll
+C:\Users\adm-caa\Desktop\apps2\SSTI\bin\Debug\netcoreapp2.0\SSTI.pdb
+C:\Users\adm-caa\Desktop\apps2\SSTI\obj\Debug\netcoreapp2.0\SSTI.csproj.CoreCompileInputs.cache
+C:\Users\adm-caa\Desktop\apps2\SSTI\obj\Debug\netcoreapp2.0\SSTI.AssemblyInfoInputs.cache
+C:\Users\adm-caa\Desktop\apps2\SSTI\obj\Debug\netcoreapp2.0\SSTI.AssemblyInfo.cs
+C:\Users\adm-caa\Desktop\apps2\SSTI\obj\Debug\netcoreapp2.0\SSTI.dll
+C:\Users\adm-caa\Desktop\apps2\SSTI\obj\Debug\netcoreapp2.0\SSTI.pdb
